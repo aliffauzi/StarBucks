@@ -1,16 +1,7 @@
-# starbucks
+<h2>starbucks<h2>
+  <h1>About This Project<h1>
+    <p>i made this project to clone StarBuckss Home Page UI and add more new compenents to make it look better</p>
+    <h1>ScreenShot & Scratch Design</h1>
+    <img src="assets/images/view.png">
+    <img src="assets/images/scratch.png">
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
